@@ -1,1 +1,2 @@
 # hugo-kicking-the-tires
+This repository is the first step for Homework 1 of CIS 3500 for building my Hugo site. While the root `hugo-kicking-the-tires` itself doesn't hold much, code for the Hugo website is contained in `portfolio`.
